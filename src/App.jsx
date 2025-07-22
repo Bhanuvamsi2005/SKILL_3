@@ -22,7 +22,7 @@ function App() {
   
   return (
     <>
-    <Router basename="/s207">
+    <Router basename="/SKILL_3">
       <Routes>
         <Route path="/" element={<HomePage />}>
           <Route index element={<AboutUs />} />
